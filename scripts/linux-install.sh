@@ -1,5 +1,3 @@
-#!/usr/bin/env sh
-
 CONFIG="$HOME/.config/nvim"
 BRANCH="dev"
 
