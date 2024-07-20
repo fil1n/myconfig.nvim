@@ -1,0 +1,7 @@
+# nvim
+lazy-lock.json
+
+# etc
+.env
+stylua
+tags
