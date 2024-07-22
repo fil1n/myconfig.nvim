@@ -1,3 +1,4 @@
+-- core.keybindings
 local keymap = vim.keymap
 
 -- remap leader key

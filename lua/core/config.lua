@@ -1,6 +1,5 @@
+-- core.config
 local opt = vim.opt
-
-local keymap = vim.keymap
 
 -- number line
 opt.relativenumber = true

@@ -1,3 +1,4 @@
+-- plugins.keybindings
 local keymap = vim.keymap
 
 -- Harpoon2
