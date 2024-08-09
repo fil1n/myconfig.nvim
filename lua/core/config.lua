@@ -23,6 +23,9 @@ opt.swapfile = false
 -- disable welcome screen
 opt.shortmess:append('sI')
 
+-- horizontal menu
+opt.wildoptions:remove({ 'pum' })
+
 -- set font for nvim-qt
 -- https://github.com/tonsky/FiraCode
 pcall(opt.guifont, 'Fira Code')
