@@ -29,6 +29,9 @@ opt.wildoptions:remove({ 'pum' })
 --  minimal number of screen lines to keep above and below the cursor
 opt.scrolloff = 5
 
+-- do not wrap lines
+opt.wrap = false
+
 -- set font for nvim-qt
 -- https://github.com/tonsky/FiraCode
 pcall(opt.guifont, 'Fira Code')
