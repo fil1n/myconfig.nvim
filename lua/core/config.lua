@@ -27,7 +27,7 @@ opt.shortmess:append('sI')
 opt.wildoptions:remove({ 'pum' })
 
 --  minimal number of screen lines to keep above and below the cursor
-opt.scrolloff = 5
+opt.scrolloff = 10
 
 -- do not wrap lines
 opt.wrap = false
