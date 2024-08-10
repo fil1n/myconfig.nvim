@@ -12,3 +12,6 @@ keymap.set('t', '<Esc>', '<C-\\><C-n>')
 
 -- clear highlights
 keymap.set('n', '<Esc>', '<cmd>nohlsearch<CR>')
+
+-- close other windows
+keymap.set('n', '<leader>o', ':only<CR>')
