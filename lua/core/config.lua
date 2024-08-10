@@ -37,3 +37,6 @@ opt.inccommand = 'split'
 
 -- undo history 
 opt.undofile = true
+
+-- time in milliseconds to wait for a mapped sequence to complete
+opt.timeoutlen = 1300
