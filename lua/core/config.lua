@@ -35,7 +35,7 @@ opt.wrap = false
 -- preview substitutions
 opt.inccommand = 'split'
 
--- undo history 
+-- undo history
 opt.undofile = true
 
 -- time in milliseconds to wait for a mapped sequence to complete
